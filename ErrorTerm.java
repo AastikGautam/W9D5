@@ -69,7 +69,7 @@ public class ErrorTerm {
 
 		}
 
-		else return "Only sr, sq and cu is Recognized";
+		else return "Only 0.5, 2 and 3 is Recognized";
 
 	}
 
@@ -91,7 +91,7 @@ public static void main(String[] args) {
 
 			
 
-		System.out.println("Enter '0.5' for Squareroot, '1' for Square and '3' for Cube");
+		System.out.println("Enter '0.5' for Squareroot, '2' for Square and '3' for Cube");
 
 
 
